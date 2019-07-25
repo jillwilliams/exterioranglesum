@@ -1,0 +1,27 @@
+body {
+    font-size: 1.5rem;
+    margin: 20px 30px;
+    font-family: 'Indie Flower', cursive;
+
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+/* IMAGE:  EXTERIOR ANGLES */
+#exteriorAngles {
+    width: 15%;
+    height: auto;
+    border: 1px red solid;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+}
+footer {
+    font-size: 1.3rem;
+    text-align: center;
+    margin-top: 20px;
+}
