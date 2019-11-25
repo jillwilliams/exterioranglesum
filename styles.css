@@ -13,12 +13,29 @@ p {
 }
 
 /* IMAGE:  EXTERIOR ANGLES */
-#exteriorAngles {
-    width: 15%;
+#img1 {
+    width: 80%;
     height: auto;
-    border: 1px red solid;
-    margin-left: 42.5%;
-    margin-right: 42.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#img2 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#img3 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#img0 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
 }
 footer {
     font-size: 1.3rem;
