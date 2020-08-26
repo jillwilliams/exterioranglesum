@@ -2,7 +2,6 @@ body {
     font-size: 1.5rem;
     margin: 20px 30px;
     font-family: 'Indie Flower', cursive;
-
 }
 h1 {
     font-size: 2rem;
@@ -11,7 +10,6 @@ h1 {
 p {
     text-align: center;
 }
-
 /* IMAGE:  EXTERIOR ANGLES */
 #img1 {
     width: 80%;
@@ -36,6 +34,10 @@ p {
     height: auto;
     margin-left: 40%;
     margin-right: 40%;
+}
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px orange solid;
 }
 footer {
     font-size: 1.3rem;
